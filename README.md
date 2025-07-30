@@ -32,7 +32,6 @@ Já passei pela **CDHU**, onde trabalhei com **Power Platform (PowerApps, Power 
 Acesse meu portfólio completo com demonstrações de projetos, códigos, automações e sistemas desenvolvidos:
 
 🔗 **[Portfólio Online](https://kenzocecilio.github.io/Portif-lio-main/)**
-🔗 **[Landing Page]()**
 
 ---
 
